@@ -1,5 +1,4 @@
 <div align="center">
-  <img src='src/assets/images/nubankLogo.png' alt="Logo nubank">
   <br />
   <h1>Admin Dashboard</h1>
 </div>
