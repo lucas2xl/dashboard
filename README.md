@@ -26,6 +26,7 @@
 - [Typescript](https://www.typescriptlang.org)
 - [tailwind](https://tailwindcss.com/)
 - [Material UI](https://mui.com/)
+- [Recharts](https://recharts.org/)
 
 ---
 
